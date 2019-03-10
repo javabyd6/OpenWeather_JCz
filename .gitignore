@@ -4,8 +4,6 @@
 *.iml
 out
 gen
-.gitignore
-.idea/
-OpenWeather_JCz.iml
-pom.xml
-src/
+
+
+
